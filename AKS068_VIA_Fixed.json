@@ -87,6 +87,88 @@
     "rows": 8,
     "cols": 16
   },
+  "customKeycodes": [
+    {
+      "name": "2.4G MODE",
+      "title": "Keyboard data output 2.4G",
+      "shortName": "2.4G MODE"
+    },
+    {
+      "name": "Bluetooth 1",
+      "title": "Bluetooth working connection 1",
+      "shortName": "BT 1"
+    },
+    {
+      "name": "Bluetooth 2",
+      "title": "Bluetooth working connection 2",
+      "shortName": "BT 2"
+    },
+    {
+      "name": "Bluetooth 3",
+      "title": "Bluetooth working connection 3",
+      "shortName": "BT 3"
+    },
+    {
+      "name": "LOCK WIN KEY",
+      "title": "lock win key",
+      "shortName": "LOCK WIN KEY"
+    },
+    {
+      "name": "LED LOGO MODE",
+      "title": "LOGO led mode",
+      "shortName": "LED LOGO MODE"
+    },
+    {
+      "name": "LOGO ON OFF",
+      "title": "logo led on off set",
+      "shortName": "LOON OFF"
+    },
+    {
+      "name": "LOGO COLOUR ADD",
+      "title": "LOGO led colour ADD",
+      "shortName": "LOCADD"
+    },
+    {
+      "name": "LOGO COLOUR DEC",
+      "title": "LOGO led colour DEC",
+      "shortName": "LOCDEC"
+    },
+    {
+      "name": "LOGO SPEED ADD",
+      "title": "SPEED ADD",
+      "shortName": "LOSPADD"
+    },
+    {
+      "name": "LOGO SPEED DEC",
+      "title": "SPEED DEC",
+      "shortName": "LOSPDEC"
+    },
+    {
+      "name": "LOGO LIGHT ADD",
+      "title": "LIGHT ADD",
+      "shortName": "LOADD"
+    },
+    {
+      "name": "LOGO LIGHT DEC",
+      "title": "LIGHT DEC",
+      "shortName": "LODEC"
+    },
+    {
+      "name": "LOGO WHITE ADD",
+      "title": "WHITE ADD",
+      "shortName": "LWHADD"
+    },
+    {
+      "name": "LOGO WHITE DEC",
+      "title": "WHITE DEC",
+      "shortName": "LWHDEC"
+    },
+    {
+      "name": "BATT LED SHOW",
+      "title": "led batt number show",
+      "shortName": "BATT LED SHOW"
+    }
+  ],
   "layouts": {
     "keymap": [
       [
